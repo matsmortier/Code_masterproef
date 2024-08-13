@@ -1,0 +1,8 @@
+../Core/Src/sunlight_co2_new.c:33:6:wakeUpSensor	1
+../Core/Src/sunlight_co2_new.c:49:6:read_Sensor_Config	1
+../Core/Src/sunlight_co2_new.c:105:6:save_State	1
+../Core/Src/sunlight_co2_new.c:127:6:read_ABC_Value	1
+../Core/Src/sunlight_co2_new.c:147:6:read_Sensor_Measurements	2
+../Core/Src/sunlight_co2_new.c:208:6:background_Calibration	10
+../Core/Src/sunlight_co2_new.c:331:6:change_Measurement_Mode	2
+../Core/Src/sunlight_co2_new.c:387:6:disable_ABC	1

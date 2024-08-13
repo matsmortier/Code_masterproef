@@ -1,0 +1,8 @@
+../System/Interfaces/usart_if.c:116:25:UART_Init	16	static
+../System/Interfaces/usart_if.c:144:25:UART_DeInit	16	static
+../System/Interfaces/usart_if.c:213:25:UART_StartRx	16	static
+../System/Interfaces/usart_if.c:239:25:UART_TransmitDMA	24	static
+../System/Interfaces/usart_if.c:289:13:USART1_DMA_MspDeInit	16	static
+../System/Interfaces/usart_if.c:319:13:UsartIf_TxCpltCallback	16	static
+../System/Interfaces/usart_if.c:333:13:UsartIf_RxCpltCallback	16	static
+../System/Interfaces/usart_if.c:353:18:get_IRQn_Type_from_DMA_HandleTypeDef	16	static

@@ -1,0 +1,8 @@
+../Core/Src/sunlight_co2.c:33:6:wakeUpSensor	16	static
+../Core/Src/sunlight_co2.c:49:6:read_Sensor_Config	48	static
+../Core/Src/sunlight_co2.c:105:6:save_State	16	static
+../Core/Src/sunlight_co2.c:127:6:read_ABC_Value	40	static
+../Core/Src/sunlight_co2.c:147:6:read_Sensor_Measurements	88	static
+../Core/Src/sunlight_co2.c:209:6:background_Calibration	152	static
+../Core/Src/sunlight_co2.c:332:6:change_Measurement_Mode	40	static
+../Core/Src/sunlight_co2.c:388:6:disable_ABC	32	static
